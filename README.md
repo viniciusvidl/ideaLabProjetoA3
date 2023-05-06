@@ -5,7 +5,7 @@
 
 # Sobre o Projeto
 
-O respositório contém os arquivos da Avaliação A3.
+O repositório contém os arquivos da Avaliação A3.
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
