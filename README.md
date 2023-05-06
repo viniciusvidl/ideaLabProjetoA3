@@ -1,7 +1,7 @@
 # IdeaLab
 
 
-![Capa do Projeto](https://unsplash.com/pt-br/fotografias/4hbJ-eymZ1o)
+![Capa do Projeto](https://t.ctcdn.com.br/33g9PKgLemg0xlqbbieHok4PWZI=/1400x788/smart/i329345.jpeg)
 
 # Sobre o Projeto
 
