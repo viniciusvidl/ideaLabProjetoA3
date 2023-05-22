@@ -6,8 +6,8 @@
 # Sobre o Projeto
 
 O protótipo foi criado com o Figma e pode ser acessado através do link:
-Projeto: https://www.figma.com/file/Ul9pPd887R1aO13Lbeqoe4/AutoPass?type=design&node-id=0%3A1&t=OYyqnYZuTTubL6mc-1
-Protótipo Interativo: https://www.figma.com/proto/Ul9pPd887R1aO13Lbeqoe4/AutoPass?type=design&node-id=1-21&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A21
+- Projeto: https://www.figma.com/file/Ul9pPd887R1aO13Lbeqoe4/AutoPass?type=design&node-id=0%3A1&t=OYyqnYZuTTubL6mc-1
+- Protótipo Interativo: https://www.figma.com/proto/Ul9pPd887R1aO13Lbeqoe4/AutoPass?type=design&node-id=1-21&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A21
 
 
 # Requisitos Funcionais 
