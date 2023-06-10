@@ -10,7 +10,7 @@
 O repositório contém os arquivos da Avaliação A3.
 
 <h4 align="center"> 
-	🚧  Em desenvolvimento . . .
+	✔  Concluido . . .
 </h4>
 
 # Índice/Sumário
