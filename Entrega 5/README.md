@@ -12,7 +12,7 @@ Vídeo de apresentação do projeto de redesign da interface gráfica de nossa m
 # Vídeo
 
 O vídeo pode ser acessado através do link:
-- Apresentação: #
+- Apresentação: https://youtu.be/KK_IHevRkFA
 
 # Autores
 
