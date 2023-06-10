@@ -1,7 +1,7 @@
 # IdeaLab
 
 
-![Logo do Projeto](https://ibb.co/rZfwNz3)
+![Logo do Projeto]([https://ibb.co/rZfwNz3](https://i.ibb.co/brRKDCF/IdeaLab.png))
 
 # Conclusão
 
@@ -22,10 +22,6 @@ O vídeo pode ser acessado através do link:
 * Lucas Souza Santana (7221111636)
 * Rafael Henrique Fontes de Santana (81265-2020)
 * Vinícius Vidal Carregosa (80491-2020)
-
-# Licença
-
-Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
 # Agradecimentos
 
