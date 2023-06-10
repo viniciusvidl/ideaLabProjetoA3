@@ -1,13 +1,12 @@
 # IdeaLab
 
-
 ![Logo do Projeto](https://i.ibb.co/brRKDCF/IdeaLab.png)
 
 # Conclusão
 
 Vídeo de apresentação do projeto de redesign da interface gráfica de nossa máquina de autoatendimento (ATM).
 
-# Índice/Sumário
+# Vídeo
 
 O vídeo pode ser acessado através do link:
 - Apresentação: #
