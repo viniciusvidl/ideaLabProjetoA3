@@ -1,7 +1,9 @@
 # IdeaLab
 
 
-![Logo do Projeto](https://i.ibb.co/brRKDCF/IdeaLab.png)
+<p align="center">
+  <img width="460" height="300" src="(https://i.ibb.co/brRKDCF/IdeaLab.png">
+</p>
 
 # Sobre o Projeto
 
