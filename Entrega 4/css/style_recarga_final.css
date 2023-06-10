@@ -1,0 +1,31 @@
+.background-final {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 240px;
+    left: 266px;
+    top: 231px;
+
+    background: #D9D9D9;
+    border-radius: 20px;
+}
+
+p {
+    position: absolute;
+    width: 590px;
+    height: 44px;
+    left: 217px;
+    top: 79px;
+
+    font-family: 'Cantata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 43px;
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #EFF4FF;
+}

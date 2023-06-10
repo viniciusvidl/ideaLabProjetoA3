@@ -1,0 +1,11 @@
+.background-cancelado img {
+
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 360px;
+    top: 189px;
+
+    background: #D9D9D9;
+    border-radius: 20px;
+}

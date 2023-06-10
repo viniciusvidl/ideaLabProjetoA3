@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1024px;
+    height: 728px;
+    margin: 0 auto;
+    position: relative;
+}
+.title {
+    position: absolute;
+    width: 275px;
+    height: 44px;
+    left: 374px;
+    top: 46px;
+
+    font-family: 'Cantata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 43px;
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #EFF4FF;
+
+}
+
+.subtitle {
+    position: absolute;
+    width: 445px;
+    height: 44px;
+    left: 289px;
+    top: 115px;
+    
+    font-family: 'Cantata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 43px;
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+    
+    color: #EFF4FF;
+}
+
+.button {
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 337px;
+    top: 189px;
+    
+    background: #051326;
+    border-radius: 20px;
+}
+
+.confirmar {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 361px;
+    top: 210px;
+}

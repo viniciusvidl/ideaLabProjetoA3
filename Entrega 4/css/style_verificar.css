@@ -1,0 +1,410 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1024px;
+    height: 728px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.title {
+    position: absolute;
+    width: 500px;
+    height: 105px;
+    left: 261px;
+    top: 31px;
+
+    font-family: 'Cantata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40.7132px;
+    line-height: 43px;
+    /* or 107% */
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #EFF4FF;
+}
+
+.title1 {
+    position: absolute;
+    width: 500px;
+    height: 105px;
+    left: 261px;
+    top: 90px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 43px;
+    /* or 310% */
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #EFF4FF;
+}
+
+.bar {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 180px;
+    height: 100px;
+    left: 32px;
+    top: 295px;
+
+    background: #D9D9D9;
+    border: 1px solid #0E294D;
+    border-radius: 20px;
+}
+
+.line {
+    position: absolute;
+    width: 178px;
+    height: 0px;
+    left: 33px;
+    top: 323px;
+
+    border: 1px solid #051326;
+}
+
+.text {
+    position: absolute;
+    width: 150px;
+    height: 41px;
+    left: 47px;
+    top: 278px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 43px;
+    /* or 310% */
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #051326;
+}
+
+.valor {
+    position: absolute;
+    width: 85px;
+    height: 45px;
+    left: 79px;
+    top: 320px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 43px;
+    /* or 217% */
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #051326;
+}
+
+.bar1 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 180px;
+    height: 100px;
+    left: 227px;
+    top: 295px;
+
+    background: #D9D9D9;
+    border: 1px solid #0E294D;
+    border-radius: 20px;
+}
+
+.line1 {
+    position: absolute;
+    width: 178px;
+    height: 0px;
+    left: 228px;
+    top: 323px;
+
+    border: 1px solid #051326;
+}
+
+.text1 {
+    position: absolute;
+    width: 150px;
+    height: 41px;
+    left: 242px;
+    top: 278px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 43px;
+    /* or 310% */
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #051326;
+}
+
+.valor1 {
+    position: absolute;
+    width: 85px;
+    height: 45px;
+    left: 274px;
+    top: 320px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 43px;
+    /* or 217% */
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #051326;
+
+}
+
+.bar2 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 180px;
+    height: 100px;
+    left: 422px;
+    top: 295px;
+
+    background: #D9D9D9;
+    border: 1px solid #0E294D;
+    border-radius: 20px;
+}
+
+.line2 {
+    position: absolute;
+    width: 178px;
+    height: 0px;
+    left: 423px;
+    top: 323px;
+
+    border: 1px solid #051326;
+}
+
+.text2 {
+    position: absolute;
+    width: 150px;
+    height: 41px;
+    left: 437px;
+    top: 278px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 43px;
+    /* or 310% */
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #051326;
+}
+
+.valor2 {
+    position: absolute;
+    width: 85px;
+    height: 45px;
+    left: 469px;
+    top: 320px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 43px;
+    /* or 217% */
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #051326;
+}
+
+.bar3 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 180px;
+    height: 100px;
+    left: 617px;
+    top: 295px;
+
+    background: #D9D9D9;
+    border: 1px solid #0E294D;
+    border-radius: 20px;
+}
+
+.line3 {
+    position: absolute;
+    width: 178px;
+    height: 0px;
+    left: 618px;
+    top: 323px;
+
+    border: 1px solid #051326;
+}
+
+.text3 {
+    position: absolute;
+    width: 150px;
+    height: 41px;
+    left: 632px;
+    top: 278px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 43px;
+    /* or 310% */
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #051326;
+}
+
+.valor3 {
+    position: absolute;
+    width: 85px;
+    height: 45px;
+    left: 664px;
+    top: 320px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 43px;
+    /* or 217% */
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #051326;
+
+}
+
+.bar4 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 180px;
+    height: 100px;
+    left: 812px;
+    top: 295px;
+
+    background: #D9D9D9;
+    border: 1px solid #0E294D;
+    border-radius: 20px;
+}
+
+.line4 {
+    position: absolute;
+    width: 178px;
+    height: 0px;
+    left: 813px;
+    top: 323px;
+
+    border: 1px solid #051326;
+}
+
+.text4 {
+    position: absolute;
+    width: 150px;
+    height: 41px;
+    left: 827px;
+    top: 278px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 43px;
+    /* or 310% */
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #051326;
+
+}
+
+.valor4 {
+    position: absolute;
+    width: 85px;
+    height: 45px;
+    left: 859px;
+    top: 320px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 43px;
+    /* or 217% */
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #051326;
+}
+
+.background {
+    position: absolute;
+    width: 65px;
+    height: 70px;
+    left: 926px;
+    top: 550px;
+    border-radius: 50%;
+    background: #D9D9D9;
+}
+
+.voltar {
+    position: absolute;
+    width: 44px;
+    height: 47px;
+    left: 936px;
+    top: 562px;
+}
+
+.background1 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 42px;
+    top: 540px;
+    border-radius: 50%;
+    background: #D9D9D9;
+}
+
+.image {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 52px;
+    top: 550px;
+}

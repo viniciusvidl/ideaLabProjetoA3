@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #051326;
+}
+
+.container {
+    position: relative;
+    width: 1024px;
+    height: 728px;
+    background: #041E40;
+
+}
+
+.center-image {
+    position: absolute;
+    width: 250px;
+    height: 249.5px;
+    left: 387px;
+    top: 239px;
+}
+
+.logo {
+    position: absolute;
+    width: 107px;
+    height: 73px;
+    left: 42px;
+    top: 640px;
+}
+
+.elo {
+    position: absolute;
+    width: 82px;
+    height: 30px;
+    left: 699px;
+    top: 662px;
+}
+
+.logo-bilhete-unico {
+    position: absolute;
+    width: 70px;
+    height: 69.77px;
+    left: 42px;
+    top: 642px;
+}
+
+.master {
+    position: absolute;
+    width: 82px;
+    height: 62px;
+    left: 810px;
+    top: 646px;
+}
+
+.visa {
+    position: absolute;
+    width: 82px;
+    height: 80px;
+    left: 909px;
+    top: 637px;
+}
+
+.back {
+    position: absolute;
+    width: 980px;
+    height: 80px;
+    left: 20px;
+    top: 637px;
+    border-radius: 20px;
+
+    background-color: #d9d9d9;
+}
+
+.hour {
+    position: absolute;
+    width: 325.71px;
+    height: 27px;
+    left: 315.65px;
+    top: 645px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.9638px;
+    line-height: 26px;
+
+    text-align: center;
+    letter-spacing: -0.461416px;
+
+    color: #051326;
+
+}
