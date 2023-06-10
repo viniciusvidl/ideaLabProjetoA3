@@ -1,7 +1,7 @@
 # IdeaLab
 
 
-![Capa do Projeto](https://t.ctcdn.com.br/33g9PKgLemg0xlqbbieHok4PWZI=/1400x788/smart/i329345.jpeg)
+![Logo do Projeto](https://i.ibb.co/brRKDCF/IdeaLab.png)
 
 # Sobre o Projeto
 
