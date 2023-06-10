@@ -6,7 +6,7 @@
 
 Implementação do projeto
 
-# Vídeo
+# Implementação
 
 O projeto pode ser acessado através do link:
 - [Projeto](https://idea-lab-ashen.vercel.app/)
