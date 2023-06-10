@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="(https://i.ibb.co/brRKDCF/IdeaLab.png)">
+  <img width="460" height="300" src="https://i.ibb.co/brRKDCF/IdeaLab.png">
 </p>
 
 # Sobre o Projeto
