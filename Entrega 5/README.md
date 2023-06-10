@@ -1,7 +1,7 @@
 # IdeaLab
 
 
-![Logo do Projeto]([https://ibb.co/rZfwNz3](https://i.ibb.co/brRKDCF/IdeaLab.png))
+![Logo do Projeto](https://i.ibb.co/brRKDCF/IdeaLab.png)
 
 # Conclusão
 
