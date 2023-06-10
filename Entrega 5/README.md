@@ -10,7 +10,7 @@ Vídeo de apresentação do projeto de redesign da interface gráfica de nossa m
 # Índice/Sumário
 
 O vídeo pode ser acessado através do link:
-- Apresentação: https://www.figma.com/file/Ul9pPd887R1aO13Lbeqoe4/AutoPass?type=design&node-id=0%3A1&t=OYyqnYZuTTubL6mc-1
+- Apresentação: #
 
 # Autores
 
